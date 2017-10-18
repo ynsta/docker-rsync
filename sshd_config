@@ -1,0 +1,5 @@
+UsePrivilegeSeparation sandbox
+UseDNS no
+PermitRootLogin no
+AllowUsers rsync
+AuthenticationMethods publickey
